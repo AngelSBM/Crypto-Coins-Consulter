@@ -1,4 +1,4 @@
-# Cryto-Coins-Consulter 💱
+# Crypto-Coins-Consulter 💱
 You can see the value of many Crypto Coins in your favorite coin! (US, EUR, DOP...)
 
 
@@ -27,5 +27,5 @@ Just have to download the code of the project and open the `index.html`
 - Mexican Peso
 
 ## Extra info
-This project uses the API **CrytpCompare**.
+This project uses the API **CryptoCompare**.
 You can check it [here](https://min-api.cryptocompare.com/ "here").
